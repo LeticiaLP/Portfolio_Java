@@ -1,2 +1,2 @@
 # Portfolio_Java
-Ideias utilizando a linguagem Java
+Ideias originadas a partir do curso de Java oferecido pelo Campinas Tech Talents - Assertiva
